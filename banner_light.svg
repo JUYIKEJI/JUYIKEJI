@@ -1,14 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
-  <rect width="1280" height="300" rx="16" fill="#ffffff"/>
-  <rect x="1" y="1" width="1278" height="298" rx="15" fill="none" stroke="#d0d7de" stroke-width="1"/>
-  <circle cx="48" cy="44" r="10" fill="#ff5f57"/>
-  <circle cx="80" cy="44" r="10" fill="#febc2e"/>
-  <circle cx="112" cy="44" r="10" fill="#28c840"/>
-  <text x="150" y="53" font-family="monospace, sans-serif" font-size="22" fill="#57606a">ayan@juyikeji — zsh</text>
-  <text x="64" y="160" font-family="sans-serif" font-size="76" font-weight="bold" fill="#24292f">阿彦能行</text>
-  <text x="64" y="215" font-family="sans-serif" font-size="28" fill="#57606a">一个在成长道路上摸爬滚打的家伙</text>
-  <text x="64" y="265" font-family="monospace, sans-serif" font-size="24" fill="#1a7f37">$ 自媒体运营 · IP 运营 · 网站地图插件</text>
-  <rect x="688" y="244" width="14" height="26" fill="#1a7f37">
-    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
-  </rect>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018px" height="551px"
+     font-family="ConsolasFallback,Consolas,Menlo,monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key {fill: #F76E0A;}
+.value {fill: #0969da;}
+.title {fill: #F76E0A; font-weight: bold;}
+.cc {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1018px" height="551px" fill="#ffffff" rx="15" stroke="#d0d7de" stroke-width="1"/>
+<text fill="#24292f" font-size="11.51px" class="ascii">
+<tspan x="15" y="119.71">@%+@@@%%%@@@%+@@%%#****+=+++=-+***##+#%%%%%#*%+*</tspan>
+<tspan x="15" y="132.49">@@*#@@@%@@%@@+%#*++-:.          .:=++#%%%%#%###*</tspan>
+<tspan x="15" y="145.27">@@%+@@%@@@@%%**+-                   =**#@%%%%###</tspan>
+<tspan x="15" y="158.05">@@@+%@@@%%#*+=.            . ...     :*+*@@%%%%#</tspan>
+<tspan x="15" y="170.83">@@@##@%@%#*=.       ...:::---::::... :-*+-#@%%%%</tspan>
+<tspan x="15" y="183.61">##%%*@@%##=      ...::-========---::..-=#- #@%%%</tspan>
+<tspan x="15" y="196.39">++++-*###-      ...:--+++****++===-::.-==# =@%@%</tspan>
+<tspan x="15" y="209.17">@@#=++=#=..    ..:::::-=++*****++=--::-+-*:.*@%@</tspan>
+<tspan x="15" y="221.95">#**%@@##-:-. .........::-=****++-::....--#.-.%@%</tspan>
+<tspan x="15" y="234.73">*%@@@%#+:-+: ....:-=====+++**++=---::. .++.- -@%</tspan>
+<tspan x="15" y="247.51">@@@@@@#*=:=-....:-:::--==-=+*=--+=+=--..*=.- .##</tspan>
+<tspan x="15" y="260.29">@@@%@@*#+-+=.::::. .  :--::-=:.:=...:..:*=.=  +%</tspan>
+<tspan x="15" y="273.07">@@@@@%+#*-==.:-::----::::.:::..::...:  -#+::: -%</tspan>
+<tspan x="15" y="285.85">@@@@@%*##+-+.::-===-----:..:....:-===-:=#*::- -#</tspan>
+<tspan x="15" y="298.63">@@@@@++#**==:.:-=====++=::-+=:.-=--===:=%*:+..:+</tspan>
+<tspan x="15" y="311.41">@@@%#-+#*#*=:.:-=++****---:=-.::+*+=--:*#+:=:.-#</tspan>
+<tspan x="15" y="324.19">@%#*@+=#**#+: :-=+****+=-===-:::=+**=:=##=:=- -+</tspan>
+<tspan x="15" y="336.97">##%@@*+#***#+.:-=++**+*+-::::.:-==+=-+##+:==: =*</tspan>
+<tspan x="15" y="349.75">%@@@%*=*#***#=.-==+**+-:       :=+=-+%#*:-==:.##</tspan>
+<tspan x="15" y="362.53">@@@@#*++#*##+#-:-==+++=-----::::=+-+%%#--=+*.-@%</tspan>
+<tspan x="15" y="375.31">@@@@##*+##*##+#-.---=+=+++++++=--:=#%%=-++*- #%%</tspan>
+<tspan x="15" y="388.09">@@@@#*#+*#**%#+#. .:-==+******+-:=%%#=-***= =@%%</tspan>
+<tspan x="15" y="400.87">@@@@+*#*+##**%*+#.   ..:=++++=-.-#%#==**#=..#%##</tspan>
+<tspan x="15" y="413.65">%%@@=*#%=*#*+#%**#::.......... .#%#=+**+=:.-%##%</tspan>
+<tspan x="15" y="426.43">%%%*+**#+=##*+#%***-=====-:.. :*%*=*#*+=+=:+%#%%</tspan>
+<tspan x="15" y="439.21">#%%=++*##=*##**#%*#*-+++++-:::#%+-*#+++*+::+%%%%</tspan>
+</text>
+<text fill="#24292f" font-size="16px">
+<tspan x="447" y="31"><tspan class="title">ayan@juyikeji</tspan> <tspan class="cc">——————————————————————————</tspan></tspan>
+<tspan x="447" y="51"><tspan class="cc">. </tspan><tspan class="key">名字</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">阿彦能行 / 阿彦</tspan></tspan>
+<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">位置</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">杭州 · 西湖区</tspan></tspan>
+<tspan x="447" y="91"><tspan class="cc">. </tspan><tspan class="key">工作</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">光年 · IP 运营</tspan></tspan>
+<tspan x="447" y="111"><tspan class="cc">. </tspan><tspan class="key">公司</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">高新区聚蚁网络科技工作室</tspan></tspan>
+<tspan x="447" y="131"><tspan class="cc">. </tspan><tspan class="key">网站</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">www.juyikeji.cn</tspan></tspan>
+<tspan x="447" y="151"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan> <tspan class="cc">.............</tspan> <tspan class="value">2021-05-03 加入</tspan></tspan>
+<tspan x="447" y="171"><tspan class="cc">. </tspan><tspan class="key">方向</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">自媒体运营 · IP 运营 · 网站地图插件</tspan></tspan>
+<tspan x="447" y="191"><tspan class="cc">. </tspan><tspan class="key">仓库</tspan><tspan class="cc">:</tspan> <tspan class="cc">................</tspan> <tspan class="value">sitemap · wordpress-sitemap · chatgpt-VIP</tspan></tspan>
+<tspan x="447" y="211"><tspan class="cc">. </tspan><tspan class="key">账号群</tspan><tspan class="cc">:</tspan> <tspan class="cc">..............</tspan> <tspan class="value">YouTube · X · TikTok</tspan></tspan>
+<tspan x="447" y="231"><tspan class="cc">. </tspan><tspan class="key">座右铭</tspan><tspan class="cc">:</tspan> <tspan class="cc">..............</tspan> <tspan class="value">一个在成长道路上摸爬滚打的家伙</tspan></tspan>
+</text>
 </svg>
