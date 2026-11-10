@@ -1,6 +1,19 @@
-# 阿彦能行
+<a href="https://www.juyikeji.cn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/main/banner_dark.svg">
+    <img alt="阿彦能行" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/main/banner_light.svg">
+  </picture>
+</a>
 
-> 一个在成长道路上摸爬滚打的家伙
+<p align="left"><a href="https://www.juyikeji.cn"><img alt="个人网站" width="33.3%" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/main/btn_website.svg"></a><a href="https://github.com/JUYIKEJI"><img alt="GitHub" width="33.3%" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/main/btn_github.svg"></a><a href="https://github.com/JUYIKEJI/wordpress-sitemap"><img alt="WordPress 插件" width="33.3%" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/main/btn_wordpress.svg"></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man 吃掉我的贡献格子" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ```text
 ayan@juyikeji
