@@ -13,8 +13,6 @@
   <img alt="Pac-Man 吃掉我的贡献格子" src="https://raw.githubusercontent.com/JUYIKEJI/JUYIKEJI/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ```text
 ayan@juyikeji
 ──────────────────────────────
@@ -31,11 +29,6 @@ GitHub  2021-05-03 加入
 - **sitemap** — Typecho 网站地图插件，1.2.0 版：首页、页面、文章按权重和频率生成 `sitemap.xml`
 - **wordpress-sitemap** — WordPress 网站地图插件，1.0.0 版：只收已发布内容，打开 `sitemap.xml` 就能看到整站地图
 - **chatgpt-VIP** — 2024 年 2 月留存的一份旧程序备份，之后没有再更新
-
-## GitHub 数据
-
-![阿彦的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=JUYIKEJI&show_icons=true&theme=dark)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=JUYIKEJI&layout=compact&theme=dark)
 
 ---
 
